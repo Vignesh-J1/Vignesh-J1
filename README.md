@@ -1,7 +1,5 @@
-![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1346329800%2Fvector%2Feducational-psychology-flat-tiny-person-concept-with-light-bulb-and-head.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DFuWP8k-S4HrbNWIs5T9e0RvHGVU1LTZMOmhMrkfkywU%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fcurious-mind&tbnid=hJ-dJ7AUnLI0HM&vet=12ahUKEwj4u6n-mOP8AhXqK7cAHZ2TBOAQMygDegQIARBL..i&docid=Y6qcu3q6Sm3OxM&w=612&h=320&q=curious%20learner%20head%20size%20image&ved=2ahUKEwj4u6n-mOP8AhXqK7cAHZ2TBOAQMygDegQIARBL)]
 <h1 align="center">Hi 👋, I'm Vignesh J</h1>
 <h3 align="center">Aspiring Mechatronics Engineering Graduate</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4282707-Hero-Animation/attachments/10304047?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh-j1&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-j1" /> </p>
 
