@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vignesh J</h1>
 <h3 align="center">Aspiring Mechatronics Engineering Graduate</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vignesh-j1" alt="vignesh-j1" /></a> </p>
+
 
 - 📫 How to reach me **sj.vignesh2@gmail.com**
 
