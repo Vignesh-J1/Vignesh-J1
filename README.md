@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Mechatronics Engineering Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
-- 📫 How to reach me **sj.vignesh2@gmail.com**
+- 📫 How to reach me **vigneshj.official@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
