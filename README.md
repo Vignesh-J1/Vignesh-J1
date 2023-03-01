@@ -1,4 +1,5 @@
 <!-- ![MasterHead]() -->
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Vignesh J</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
@@ -6,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Application**
+- 🔭 I’m currently working on **my personal projects**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **vigneshj.official@gmail.com**
 
