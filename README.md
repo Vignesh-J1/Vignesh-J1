@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="👋"> , I'm Vignesh J</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38C2FF&width=880&lines=Aspiring+Full+Stack+Developer;Passionate+Learner;Tech++Enthusiast;Transforming+ideas+into+innovation+through+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=38C2FF&width=880&lines=Aspiring+Full+Stack+Developer;Passionate+Learner;Tech++Enthusiast;Transforming+ideas+into+innovation+through+code)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
